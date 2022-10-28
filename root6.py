@@ -1,5 +1,6 @@
 #string 
-#accessing data wi the help of string data 
+#accessing data with the help of string data
+# data[1:6] postion left to position right 
 
 data = '''My name is raushan'''
 print(data)
