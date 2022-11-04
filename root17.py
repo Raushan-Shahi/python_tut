@@ -19,6 +19,7 @@ elif unit == "g" and convert == "l":
 else:
     print(f'{weight*4500} {convert}')
 
+print("thank you for using us.")
 
 
 
