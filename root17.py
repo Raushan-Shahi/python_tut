@@ -1,6 +1,6 @@
 # project weight converter
 
-print("weight converter")
+print("weight converter (kg,g,lbs)")
 weight = int(input("Enter your weight: " ))
 unit = input("enter your unit:(l)lbs or (k)kgor (g)grams" ) 
 convert = input("The unit you want " )
