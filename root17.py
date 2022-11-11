@@ -1,4 +1,4 @@
-# project weight converter
+#weight converter
 
 print("weight converter (kg,g,lbs)")
 weight = int(input("Enter your weight: " ))
