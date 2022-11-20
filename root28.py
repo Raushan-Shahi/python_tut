@@ -2,3 +2,4 @@
 
 name = "Raushan"
 print(name[1], name[4])
+print(name[1:6])
